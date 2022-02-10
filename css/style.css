@@ -642,8 +642,7 @@ grid-column: 1/2;
 
  }
 .vedio{
-    height: 10em;
-width:10em;
+    
 border-radius: 1rem;
 margin:2rem;
 overflow: hidden;
